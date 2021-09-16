@@ -1,0 +1,5 @@
+Credentials cache: API:DCD2D33D-C41B-4B23-AB04-43292736A604
+        Principal: ivda-cru@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  6 20:40:04 2021  Sep  7 06:39:55 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
